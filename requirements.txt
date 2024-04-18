@@ -12,4 +12,3 @@ email_validator==2.1.1
 dnspython==2.6.1
 idna==3.6
 gunicorn==21.2.0
-psycopg2==2.9.9
